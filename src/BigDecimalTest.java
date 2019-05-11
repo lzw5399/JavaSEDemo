@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class SecondMain {
+public class BigDecimalTest {
   public static void main(String[] args) {
     var d = BigDecimal.valueOf(1.0);
 
