@@ -1,3 +1,5 @@
+package fun.codepie.before;
+
 import java.util.Scanner;
 
 /** 使用Scanner获取键盘输入 */

@@ -1,3 +1,5 @@
+package fun.codepie.before;
+
 /** 转义字符测试 */
 public class Escapes {
   public static void main(String[] args) {

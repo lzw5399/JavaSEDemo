@@ -1,3 +1,5 @@
+package fun.codepie.before;
+
 public class StringLink {
   public static void main(String[] args) {
     int a = 1;

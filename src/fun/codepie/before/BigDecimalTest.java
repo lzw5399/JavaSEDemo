@@ -1,3 +1,5 @@
+package fun.codepie.before;
+
 import java.math.BigDecimal;
 
 public class BigDecimalTest {

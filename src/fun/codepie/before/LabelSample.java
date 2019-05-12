@@ -1,3 +1,5 @@
+package fun.codepie.before;
+
 public class LabelSample {
   public static void main(String args[]) {
     Label1:

@@ -1,4 +1,4 @@
-package Model;
+package fun.codepie.oo;
 
 public class TestOverload extends TestFather {
   public TestOverload(int a) {
