@@ -16,6 +16,7 @@ public class TestOuterInner {
         };
     out.e();
     out.show();
+    String x = new String("12");
 
     var noNameInterface =
         new NoNameInterface() {
