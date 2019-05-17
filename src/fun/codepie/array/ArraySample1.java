@@ -5,9 +5,9 @@ import java.util.List;
 
 public class ArraySample1 {
   public static void main(String[] args) {
-    List<String> x = new ArrayList<String>();
+    List<String> x = new ArrayList<>();
     x.add("1");
-    x.add("djsdjks");
+    x.add("test");
     for (var item : x) {
       System.out.println(item);
     }
