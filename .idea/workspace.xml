@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f559e3-ebcf-445c-83fc-5fe3351a6287" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fun/codepie/Strings/TestString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/codepie/DimensionArray/TestDimensionArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/codepie/PackagingClass/TestPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/codepie/array/TestArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaSESample/fun/codepie/array/ArraySample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSESample/fun/codepie/array/ArraySample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fun/codepie/array/ArraySample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/codepie/array/ArraySample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSESample/fun/codepie/array/ArrayCopy2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSESample/fun/codepie/array/ArrayCopy2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +16,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java">
+        <entry file="file://$PROJECT_DIR$/src/fun/codepie/PackagingClass/TestPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="125">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -91,6 +105,9 @@
         <option value="$PROJECT_DIR$/src/fun/codepie/array/ArraySample1.java" />
         <option value="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy.java" />
         <option value="$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java" />
+        <option value="$PROJECT_DIR$/src/fun/codepie/array/TestArrays.java" />
+        <option value="$PROJECT_DIR$/src/fun/codepie/DimensionArray/TestDimensionArray.java" />
+        <option value="$PROJECT_DIR$/src/fun/codepie/PackagingClass/TestPackage.java" />
       </list>
     </option>
   </component>
@@ -138,7 +155,7 @@
               <item name="JavaSESample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codepie" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="PackagingClass" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSESample" type="b2602c69:ProjectViewProjectNode" />
@@ -188,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayCopy2">
+  <component name="RunManager" selected="Application.TestPackage">
     <configuration name="ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fun.codepie.array.ArrayCopy" />
       <module name="JavaSESample" />
@@ -215,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAbstsct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.codepie.abstact.TestAbstsct" />
+    <configuration name="TestArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.codepie.array.TestArrays" />
       <module name="JavaSESample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.codepie.abstact.*" />
+          <option name="PATTERN" value="fun.codepie.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestOuterInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.codepie.InnerClass.TestOuterInner" />
+    <configuration name="TestDimensionArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.codepie.DimensionArray.TestDimensionArray" />
       <module name="JavaSESample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.codepie.InnerClass.*" />
+          <option name="PATTERN" value="fun.codepie.DimensionArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.codepie.Strings.TestString2" />
+    <configuration name="TestPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.codepie.PackagingClass.TestPackage" />
       <module name="JavaSESample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.codepie.Strings.*" />
+          <option name="PATTERN" value="fun.codepie.PackagingClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestPackage" />
+        <item itemvalue="Application.TestDimensionArray" />
+        <item itemvalue="Application.TestArrays" />
         <item itemvalue="Application.ArrayCopy2" />
         <item itemvalue="Application.ArrayCopy" />
-        <item itemvalue="Application.TestString2" />
-        <item itemvalue="Application.TestOuterInner" />
-        <item itemvalue="Application.TestAbstsct" />
       </list>
     </recent_temporary>
   </component>
@@ -285,12 +302,13 @@
       <workItem from="1557759124610" duration="1115000" />
       <workItem from="1557926568713" duration="7192000" />
       <workItem from="1558012675613" duration="7039000" />
-      <workItem from="1558101502050" duration="4007000" />
+      <workItem from="1558101502050" duration="4496000" />
+      <workItem from="1558181409615" duration="5545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44668000" />
+    <option name="totallyTimeSpent" value="50702000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,10 +320,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22314675" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -332,7 +350,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="调色板" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Module Dependencies" order="9" weight="0.32980332" />
@@ -418,25 +436,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="uml://JAVA/Model.Test">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>Model.Test</OriginalElement>
-          <nodes>
-            <node x="" y="">Model.Test</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="18.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ww.java" />
     <entry file="file://$PROJECT_DIR$/src/fun/codepie/before/HelloWorld.class" />
     <entry file="file://$PROJECT_DIR$/src/fun/codepie/before/StringLink.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -449,13 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -775,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fun/codepie/array/ArraySample1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="250">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -786,7 +778,7 @@
     <entry file="file://$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
           <folding>
             <element signature="method#main#0;class#ArrayCopy#0" />
           </folding>
@@ -795,8 +787,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fun/codepie/array/ArrayCopy2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="335">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1855" selection-start-line="1855" selection-end-line="1855" />
+          <folding>
+            <element signature="e#88446#88447#0" expanded="true" />
+            <element signature="e#88503#88504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fun/codepie/array/TestArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fun/codepie/DimensionArray/TestDimensionArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="229" column="34" lean-forward="true" selection-start-line="229" selection-start-column="34" selection-end-line="229" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="66" column="67" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="67" />
+          <folding>
+            <element signature="e#2821#2822#0" expanded="true" />
+            <element signature="e#2860#2861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="781" column="16" selection-start-line="781" selection-start-column="16" selection-end-line="781" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fun/codepie/PackagingClass/TestPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,8 @@
 package fun.codepie.array;
 
+import java.sql.Array;
+import java.util.Arrays;
+
 public class ArrayCopy2 {
   public static void main(String[] args) {
     var array = new String[] {"index0", "index1", "index2", "index3", "index4"};
@@ -13,7 +16,6 @@ public class ArrayCopy2 {
   private static String[] removeElement(String[] array, int index) {
     System.arraycopy(array, index + 1, array, index, array.length - index - 1);
     array[array.length - 1] = null;
-
     return array;
   }
 }
