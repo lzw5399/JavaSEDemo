@@ -1,6 +1,4 @@
-package fun.codepie.PackagingClass;
-
-import java.math.BigDecimal;
+package fun.codepie.packagingClass;
 
 public class TestPackage {
   public static void main(String[] args) {

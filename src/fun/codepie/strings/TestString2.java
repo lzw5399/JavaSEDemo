@@ -1,4 +1,4 @@
-package fun.codepie.Strings;
+package fun.codepie.strings;
 
 public class TestString2 {
   public static void main(String[] args) {

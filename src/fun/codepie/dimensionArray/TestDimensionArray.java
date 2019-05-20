@@ -1,4 +1,4 @@
-package fun.codepie.DimensionArray;
+package fun.codepie.dimensionArray;
 
 import java.util.Arrays;
 

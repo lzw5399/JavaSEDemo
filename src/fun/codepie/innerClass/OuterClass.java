@@ -1,4 +1,4 @@
-package fun.codepie.InnerClass;
+package fun.codepie.innerClass;
 
 public class OuterClass {
   public int name;

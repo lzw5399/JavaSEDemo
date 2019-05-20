@@ -1,8 +1,8 @@
-package fun.codepie.InnerClass;
+package fun.codepie.innerClass;
 
 public class TestOuterInner {
   public static void main(String[] args) {
-    // var x = new OuterClass().new InnerClass();
+    // var x = new OuterClass().new innerClass();
     var out =
         new NoNameInner() {
           void e() {

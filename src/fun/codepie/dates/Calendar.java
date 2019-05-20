@@ -1,4 +1,4 @@
-package fun.codepie.Dates;
+package fun.codepie.dates;
 
 import java.util.GregorianCalendar;
 

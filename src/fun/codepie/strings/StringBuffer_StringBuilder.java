@@ -1,4 +1,4 @@
-package fun.codepie.Strings;
+package fun.codepie.strings;
 
 public class StringBuffer_StringBuilder {
   public static void main(String[] args) {

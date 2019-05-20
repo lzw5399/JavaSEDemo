@@ -1,4 +1,4 @@
-package fun.codepie.InnerClass;
+package fun.codepie.innerClass;
 
 public class NoNameInner {
   void show() {
